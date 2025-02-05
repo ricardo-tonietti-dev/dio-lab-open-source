@@ -1,4 +1,4 @@
-### Olá! Meu nome é Ricardo Tonietti👍
+### Olá! Meu nome é  Ricardo Tonietti👍
 
 Carreira desenvolvida em Engenharia de Software, com MBA em Gestão da Tecnologia da Informação (FIAP) e especialização em Arquitetura de Soluções/Software (IGTI). Atuei em empresas de médio e grande porte, desempenhando os seguintes papéis: Tech Lead, Scrum Master, líder de equipe, desenvolvedor, coordenador de projetos e Gerente de Projetos.
 • Coordenar o time de desenvolvimento, garantindo entregas de alta qualidade.
